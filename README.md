@@ -1,8 +1,7 @@
 # Multimodal Discourse
 ## How an Online Influential Figure Can Be a Melting Pot of Multimodal Discourse? The Influence of Fan Age, on Online Discourse; Examining the Facebook Comments, on Taylor Swifts Page.
 
-* This project aims to explore how popular internet phenomena i.e. Emojis, stickers, GIFs, reels and memes have influenced language evolution by introducing words and phrases into dictionaries. 
-* The impact of non-textual or nonverbal elements in shaping our perceptions
-* How online contents from different regions helps spread common foreign phrases or cultural awareness
-* How the age of the audience has involved in response to these elements, contributing to the shaping of discourse
-* This project involved analyzing 577653 Facebook comments posted on Taylor Swift's page between August 2015 and 2023.
+This project involved analyzing 577653 Facebook comments posted on Taylor Swift's page between August 2015 and 2023
+
+* Objectives: This project aims to explore how popular internet phenomena i.e. Emojis, stickers, GIFs, reels and memes have influenced language evolution by introducing words and phrases into dictionaries, the impact of non-textual or nonverbal elements in shaping our perceptions, how online contents from different regions helps spread common foreign phrases or cultural awareness, how the age of the audience has involved in response to these elements, contributing to the shaping of discourse.
+* Procedure: The study highlights the influence of internet culture on language evolution, with Millennials, Taylor Swift fans in particular, playing a key role in shaping trends and communication styles through social media. While Millennials prefer straightforward emoji usage, Gen Z uses emojis more creatively with hidden meanings. Taylor Swift’s vast social media presence, combined with her lyrics' vocabulary, fosters incidental language learning. Additionally, the rise of short-form video content, like Instagram Reels, has reshaped user engagement, reflecting broader cultural shifts in communication and consumption driven by mobile platforms.
